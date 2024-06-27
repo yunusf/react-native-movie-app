@@ -6,8 +6,8 @@ import Home from "../screens/Home"
 const Stack = createNativeStackNavigator()
 
 const HomeStackNavigator = (): JSX.Element => (
-    <Stack.Navigator initialRouteName='Home'>
-        <Stack.Screen name='Home' component={Home} />
+    <Stack.Navigator initialRouteName='home'>
+        <Stack.Screen name='home' component={Home} />
         <Stack.Screen name='MovieDetail' component={MovieDetail} />
     </Stack.Navigator>
 )
