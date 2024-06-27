@@ -12,8 +12,8 @@
 - React Native
 - Expo
 - TypeScript
-- ESLint
-- Prettier
+<!-- - ESLint
+- Prettier -->
 
 ---
 if you are interested in using or adding features, you can use it directly or clone and expand it
